@@ -1,0 +1,21 @@
+{
+  "name": "discord-welcome-goodbye-system",
+  "version": "1.0.0",
+  "description": "نظام ترحيب ومغادرة احترافي وقابل للتطوير لبوت Discord مبني بـ Discord.js وقاعدة بيانات JSON محلية",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node src/deploy-commands.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  },
+  "author": "",
+  "license": "ISC"
+}

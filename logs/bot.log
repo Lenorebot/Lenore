@@ -1,0 +1,40 @@
+[2026-08-27 21:03:33] [INFO] [GlobalHandler] تم تفعيل معالج الأخطاء العام بنجاح
+[2026-08-27 21:03:34] [INFO] [CommandHandler] تم تحميل 1 أمر/أوامر رئيسية بنجاح
+[2026-08-27 21:03:34] [INFO] [EventHandler] تم تحميل 4 حدث/أحداث بنجاح
+[2026-08-27 21:03:36] [INFO] [Ready] تم تسجيل الدخول بنجاح باسم Lenore_Music#6410
+[2026-08-27 21:03:36] [INFO] [Ready] البوت يعمل حاليًا في 3 سيرفر
+[2026-08-27 21:23:07] [INFO] [Database] تم إنشاء إعدادات افتراضية جديدة للسيرفر 1474806414131335272
+[2026-08-27 22:47:00] [INFO] [CommandHandler] تم تحميل 1 أمر/أوامر رئيسية بنجاح
+[2026-08-27 22:47:00] [INFO] [GlobalHandler] تم تفعيل معالج الأخطاء العام بنجاح
+[2026-08-27 22:47:01] [INFO] [EventHandler] تم تحميل 4 حدث/أحداث بنجاح
+[2026-08-27 22:47:04] [INFO] [Ready] تم تسجيل الدخول بنجاح باسم Lenore_Music#6410
+[2026-08-27 22:47:04] [INFO] [Ready] البوت يعمل حاليًا في 3 سيرفر
+[2026-08-28 00:49:50] [INFO] [EventHandler] تم تحميل 4 حدث/أحداث بنجاح
+[2026-08-28 00:49:50] [INFO] [GlobalHandler] تم تفعيل معالج الأخطاء العام بنجاح
+[2026-08-28 00:49:50] [INFO] [CommandHandler] تم تحميل 1 أمر/أوامر رئيسية بنجاح
+[2026-08-28 00:49:53] [INFO] [Ready] تم تسجيل الدخول بنجاح باسم Lenore_Music#6410
+[2026-08-28 00:49:53] [INFO] [Ready] البوت يعمل حاليًا في 3 سيرفر
+[2026-08-28 01:03:45] [INFO] [GlobalHandler] تم تفعيل معالج الأخطاء العام بنجاح
+[2026-08-28 01:03:45] [INFO] [CommandHandler] تم تحميل 1 أمر/أوامر رئيسية بنجاح
+[2026-08-28 01:03:45] [INFO] [EventHandler] تم تحميل 4 حدث/أحداث بنجاح
+[2026-08-28 01:03:45] [INFO] [Bootstrap] جاري تسجيل 1 أمر (Slash) لدى ديسكورد...
+[2026-08-28 01:03:47] [INFO] [Bootstrap] ✅ تم تسجيل وقبول الأوامر من ديسكورد بنجاح!
+[2026-08-28 01:03:50] [INFO] [Ready] تم تسجيل الدخول بنجاح باسم Lenore_Music#6410
+[2026-08-28 01:03:50] [INFO] [Ready] البوت يعمل حاليًا في 3 سيرفر
+[2026-08-28 01:05:38] [WARN] [InteractionCreate] تم استدعاء أمر غير مسجّل: setup-ticket
+[2026-08-28 01:07:19] [ERROR] [GlobalHandler] Uncaught Exception {"error":"Invalid string length","stack":"Error: Invalid string length\n    at Object.run (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:2422:79)\n    at C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:67\n    at Array.reduce (<anonymous>)\n    at _StringValidator.parse (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:29)\n    at TextInputBuilder.setLabel (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@discordjs\\builders\\dist\\index.js:2095:38)\n    at buildEmbedEditModal (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\modalBuilder.js:28:10)\n    at Object.handleButton (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\panelHandler.js:69:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)"}
+[2026-08-28 01:07:45] [INFO] [Panel] تم تعيين روم welcome إلى 1535472883961172060 في السيرفر 1474806414131335272
+[2026-08-28 01:07:58] [INFO] [Panel] تم تعيين روم goodbye إلى 1535472883961172060 في السيرفر 1474806414131335272
+[2026-08-28 01:09:12] [ERROR] [GlobalHandler] Uncaught Exception {"error":"Invalid string length","stack":"Error: Invalid string length\n    at Object.run (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:2422:79)\n    at C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:67\n    at Array.reduce (<anonymous>)\n    at _StringValidator.parse (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:29)\n    at TextInputBuilder.setLabel (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@discordjs\\builders\\dist\\index.js:2095:38)\n    at buildEmbedEditModal (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\modalBuilder.js:28:10)\n    at Object.handleButton (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\panelHandler.js:69:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)"}
+[2026-08-28 01:09:20] [ERROR] [GlobalHandler] Uncaught Exception {"error":"Invalid string length","stack":"Error: Invalid string length\n    at Object.run (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:2422:79)\n    at C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:67\n    at Array.reduce (<anonymous>)\n    at _StringValidator.parse (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:29)\n    at TextInputBuilder.setLabel (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\node_modules\\@discordjs\\builders\\dist\\index.js:2095:38)\n    at buildEmbedEditModal (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\modalBuilder.js:28:10)\n    at Object.handleButton (C:\\Users\\Lenovo\\OneDrive\\سطح المكتب\\discord-welcome-bot\\src\\components\\panelHandler.js:69:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)"}
+[2026-08-28 01:09:52] [INFO] [GlobalHandler] تم تفعيل معالج الأخطاء العام بنجاح
+[2026-08-28 01:09:52] [INFO] [CommandHandler] تم تحميل 1 أمر/أوامر رئيسية بنجاح
+[2026-08-28 01:09:52] [INFO] [EventHandler] تم تحميل 4 حدث/أحداث بنجاح
+[2026-08-28 01:09:52] [INFO] [Bootstrap] جاري تسجيل 1 أمر (Slash) لدى ديسكورد...
+[2026-08-28 01:09:53] [INFO] [Bootstrap] ✅ تم تسجيل وقبول الأوامر من ديسكورد بنجاح!
+[2026-08-28 01:09:55] [INFO] [Ready] تم تسجيل الدخول بنجاح باسم Lenore_Music#6410
+[2026-08-28 01:09:55] [INFO] [Ready] البوت يعمل حاليًا في 3 سيرفر
+[2026-08-28 01:11:30] [INFO] [Panel] تم تعيين روم welcome إلى 1529979821143232707 في السيرفر 1474806414131335272
+[2026-08-28 01:11:41] [INFO] [Panel] تم تعيين روم goodbye إلى 1529979821143232707 في السيرفر 1474806414131335272
+[2026-08-28 01:14:01] [INFO] [Goodbye] تم إرسال رسالة مغادرة للعضو Lara✨#9577 في #Lenore_bot
+[2026-08-28 01:14:50] [INFO] [Welcome] تم إرسال رسالة ترحيب للعضو Lara✨#9577 في #Lenore_bot

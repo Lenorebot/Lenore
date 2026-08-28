@@ -1,0 +1,52 @@
+{
+  "guildId": "1474806414131335272",
+  "createdAt": "2026-08-27T21:23:07.929Z",
+  "updatedAt": "2026-08-28T01:12:11.313Z",
+  "welcome": {
+    "enabled": true,
+    "channelId": "1529979821143232707",
+    "mention": false,
+    "useEmbed": true,
+    "message": {
+      "content": "مرحبًا {mention} بك في **{server}**! 🎉",
+      "title": "🎉 عضو جديد!",
+      "description": "أهلًا بك {username} في **{server}**\nأنت العضو رقم **#{memberCount}**",
+      "color": "#a9f2f4",
+      "authorEnabled": true,
+      "authorText": "{username}",
+      "authorIconFromAvatar": true,
+      "thumbnailEnabled": true,
+      "thumbnailFromAvatar": true,
+      "thumbnailUrl": null,
+      "imageEnabled": false,
+      "imageUrl": null,
+      "footerEnabled": true,
+      "footerText": "انضم في {joinedAt}",
+      "footerIconFromAvatar": true,
+      "timestampEnabled": true
+    }
+  },
+  "goodbye": {
+    "enabled": true,
+    "channelId": "1529979821143232707",
+    "useEmbed": true,
+    "message": {
+      "content": "👋 غادر **{username}** السيرفر.",
+      "title": "👋 وداعًا",
+      "description": "**{username}** لم يعد معنا.\nعدد الأعضاء الحالي: **#{memberCount}**",
+      "color": "#ED4245",
+      "authorEnabled": true,
+      "authorText": "{username}",
+      "authorIconFromAvatar": true,
+      "thumbnailEnabled": true,
+      "thumbnailFromAvatar": true,
+      "thumbnailUrl": null,
+      "imageEnabled": false,
+      "imageUrl": null,
+      "footerEnabled": true,
+      "footerText": "كان معنا منذ {joinedAt}",
+      "footerIconFromAvatar": true,
+      "timestampEnabled": true
+    }
+  }
+}
